@@ -7,7 +7,7 @@ public class printf {
 	
 	public static void main(String[] args) {
 		
-		//printf()과 system.out.format()은 같다. 
+		//printf()와 system.out.format()은 같다. 
 		
 		/*
 		 * %d   = 정수
